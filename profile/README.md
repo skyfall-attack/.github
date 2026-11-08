@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://skyfall-attack.github.io/">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/skyfall-attack/.github/main/profile/assets/skyfall-logo-dark.svg">
-      <img src="https://raw.githubusercontent.com/skyfall-attack/.github/main/profile/assets/skyfall-logo-light.svg" width="112" height="112" alt="SKYFALL — a CPU leaking data">
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/skyfall-logo-dark.png">
+      <img src="./assets/skyfall-logo-light.png" width="112" height="112" alt="SKYFALL — a CPU leaking data">
     </picture>
   </a>
 </p>
