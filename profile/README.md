@@ -13,10 +13,9 @@
 SKYFALL samples residual CPU cache data, exposing confidential AMD SEV-SNP guest state, decrypted microcode, and protected System Management Mode memory.
 
 [Benedict Schlüter](https://benschlueter.com/)\*, [Alessandro Vezzù](https://www.linkedin.com/in/avezzu/)\*, [Daniel Moghimi](https://moghimi.org/), and [Shweta Shinde](https://www.shwetashinde.org/).  
-ETH Zurich and Google · \* Equal contribution.
+\* Equal contribution.
 
-<details>
-<summary>Cite this paper</summary>
+### Citation
 
 ```bibtex
 @inproceedings{schlueter2027skyfall,
@@ -29,4 +28,3 @@ ETH Zurich and Google · \* Equal contribution.
 }
 ```
 
-</details>

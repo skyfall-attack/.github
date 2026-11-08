@@ -8,7 +8,7 @@ This repository supplies the public profile for [skyfall-attack](https://github.
 2. Add the contents of this directory to its root. The profile must be located at `profile/README.md`, with its preview image in `profile/assets/`.
 3. Commit to the repository’s default branch.
 
-Upload the entire `profile/` folder, including `assets/`. The profile uses the website’s LinkedIn preview as a clickable banner, followed by paper/website links, a short summary, authors, and an expandable citation. Its PNG image uses a relative path, so it works across branches and when previewed locally. Previous logo assets are retained for reuse.
+Upload the entire `profile/` folder, including `assets/`. The profile uses the website’s LinkedIn preview as a clickable banner, followed by paper/website links, a short summary, authors, and a visible BibTeX citation. Its PNG image uses a relative path, so it works across branches and when previewed locally. Previous logo assets are retained for reuse.
 
 GitHub displays `profile/README.md` on the organization’s Overview tab. This repository does not deploy or modify the GitHub Pages website.
 
